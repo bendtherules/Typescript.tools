@@ -44,6 +44,7 @@ TSC = Typescript compiler
 
 2. Typedoc - Very popular Typescript documentation generator which extracts type definitions and inline jsdoc comments into separate documents.
 
+3. [shameless plug][webpack-strip-log-loader](https://github.com/bendtherules/webpack-strip-log-loader) - webpack plugin to remove some module (or symbol) and their usages recursively in a project. Uses TSC api internally.
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 <style type="text/css" media="screen">
