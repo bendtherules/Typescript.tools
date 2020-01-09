@@ -35,3 +35,11 @@ TSC = Typescript compiler
     *TS has anyway opened up more apis, is it worth using anymore ??*
 
 3. [ttypescript](https://github.com/cevek/ttypescript) - TSC drop-in replacement which supports passing custom transformers as cmdline argument.
+
+## Tools built using it
+
+1. Typescript language service plugin in VS Code (inbuilt), [atom](https://github.com/TypeStrong/atom-typescript), [Sublime Text](https://github.com/Microsoft/TypeScript-Sublime-Plugin) - Supports similar feature set in multiple editors
+
+2. Typedoc - Very popular Typescript documentation generator which extracts type definitions and inline jsdoc comments into separate documents.
+
+3. [shameless plug] [webpack-strip-log-loader](https://github.com/bendtherules/webpack-strip-log-loader) - webpack plugin to remove some module (or symbol) and their usages recursively in a project. Uses TSC api internally.
