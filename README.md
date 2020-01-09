@@ -2,7 +2,7 @@
 
 ---
 
-### Collection of resources related to Typescript compiler api (and related things)
+### Collection of resources related to Typescript internals
 
 TSC = Typescript compiler
 
