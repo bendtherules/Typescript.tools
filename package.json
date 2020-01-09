@@ -1,0 +1,22 @@
+{
+  "name": "typescript.tools",
+  "version": "0.0.1",
+  "description": "Collection of resources related to Typescript compiler api (and related things)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendtherules/typescript.tools.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "bendtherules",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bendtherules/typescript.tools/issues"
+  },
+  "homepage": "https://github.com/bendtherules/typescript.tools#readme"
+}
