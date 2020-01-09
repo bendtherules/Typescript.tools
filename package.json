@@ -4,6 +4,7 @@
   "description": "Collection of resources related to Typescript compiler api (and related things)",
   "main": "index.js",
   "scripts": {
+    "build": "marked ./README.md -o index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/bendtherules/typescript.tools/issues"
   },
-  "homepage": "https://github.com/bendtherules/typescript.tools#readme"
+  "homepage": "https://github.com/bendtherules/typescript.tools#readme",
+  "devDependencies": {
+    "marked": "^0.8.0"
+  }
 }
