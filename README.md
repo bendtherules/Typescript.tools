@@ -56,6 +56,7 @@ TSC = Typescript compiler
   }
   body>h1 {
       color: darkcyan;
+      margin-bottom: 0.5em;
   }
   h1, h2 {
   padding-bottom: .3em;
