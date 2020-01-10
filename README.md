@@ -1,6 +1,6 @@
 # Typescript.tools
 
-**Collection of resources related to Typescript internals**
+### Collection of resources related to Typescript internals.
 
 TSC = Typescript compiler
 
