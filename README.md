@@ -47,6 +47,7 @@ TSC = Typescript compiler
 3. (shameless plug) [webpack-strip-log-loader](https://github.com/bendtherules/webpack-strip-log-loader) - webpack plugin to remove some module (or symbol) and their usages recursively in a project. Uses TSC api internally.
 
 <title>Collection of resources related to Typescript internals</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 <style type="text/css" media="screen">
