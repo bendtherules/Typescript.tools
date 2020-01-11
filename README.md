@@ -26,6 +26,8 @@ TSC = Typescript compiler
 
 4. [Typescript Transformer Handbook](https://github.com/madou/typescript-transformer-handbook) - Lots of links and examples on how to write custom transformer. More of complete working examples, less theory. Same techniques apply for using TSC api directly.
 
+5. [Compiler API through Deno](https://deno.land/std/manual.md#compiler-api) - Deno is a new secure runtime for JavaScript and TypeScript. It allows runtime access to the built in TypeScript compiler.
+
 ## Wrappers and utils
 
 1. [ts-morph](https://github.com/dsherret/ts-morph) - Easier and nicer abstraction layer on top of TS internals. Exposes underlying constructs for advanced usecases.
