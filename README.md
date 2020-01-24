@@ -26,7 +26,9 @@ TSC = Typescript compiler
 
 4. [Typescript Transformer Handbook](https://github.com/madou/typescript-transformer-handbook) - Lots of links and examples on how to write custom transformer. More of complete working examples, less theory. Same techniques apply for using TSC api directly.
 
-5. [Compiler API through Deno](https://deno.land/std/manual.md#compiler-api) - Deno is a new secure runtime for JavaScript and TypeScript. It allows runtime access to the built in TypeScript compiler.
+5. [Typescript API Playground](https://typescript-api-playground.glitch.me/) - Great live examples on how to consume a custom transformer end-to-end on the browser. Very useful for building interactive ts tools that run on the browser. It shows how to create a virtual source file from input raw string, run transformers on it and then emits the result to string and shows it on the page.
+
+6. [Compiler API through Deno](https://deno.land/std/manual.md#compiler-api) - Deno is a new secure runtime for JavaScript and TypeScript. It allows runtime access to the built in TypeScript compiler.
 
 ## Wrappers and utils
 
