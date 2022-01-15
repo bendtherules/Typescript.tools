@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/bendtherules/typescript.tools#readme",
   "devDependencies": {
-    "marked": "^0.8.0"
+    "marked": "^4.0.10"
   }
 }
